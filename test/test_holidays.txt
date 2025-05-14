@@ -1,0 +1,946 @@
+day_long   d           country  type                  holiday                      description                                                 
+---------  ----------  -------  --------------------  ---------------------------  ------------------------------------------------------------
+woensdag   2020-01-01  NL       public holiday        nieuwsjaarsdag               new year                                                    
+
+woensdag   2020-01-01  US       public holiday        New Year's Day               new year                                                    
+
+maandag    2020-01-20  US       public holiday        Martin Luther King Day       third Monday of January                                     
+
+vrijdag    2020-02-14  NL       special day           valentijn                    valentine's day, fixed 14-feb                               
+
+maandag    2020-02-17  US       public holiday        President's Day              third Monday of February                                    
+
+zondag     2020-02-23  NL       national celebration  carnaval                     7 weeks before easter                                       
+
+dinsdag    2020-02-25  US       national celebration  Mardi Gras                   Shrove Tuesday, carnaval ends                               
+
+dinsdag    2020-03-17  US       national celebration  Saint Patrick's Day          fixed 17-mar                                                
+
+zondag     2020-03-29  NL       special day           zomertijd EU                 start DST, last sunday march                                
+
+vrijdag    2020-04-10  NL       public holiday        goede vrijdag                2 days before easter                                        
+
+zondag     2020-04-12  NL       public holiday        pasen                        easter (gregorian)                                          
+
+maandag    2020-04-13  NL       public holiday        2e paasdag                   day after easter                                            
+
+maandag    2020-04-27  NL       public holiday        koningsdag                   kingsday, fixed but NOT on sunday                           
+
+maandag    2020-05-04  NL       special day           dodenherdenking              remembrance of the dead, fixed 04-may                       
+
+dinsdag    2020-05-05  NL       public holiday        bevrijdingsdag (lustrum)     liberation day, fixed 05-may                                
+
+zondag     2020-05-10  NL       national celebration  moederdag                    second sunday may                                           
+
+donderdag  2020-05-21  NL       public holiday        hemelvaart                   ascension day, 39 days after easter                         
+
+maandag    2020-05-25  US       public holiday        Memorial Day                 last Monday of May                                          
+
+zondag     2020-05-31  NL       public holiday        pinksteren                   Pentecost, 7 weeks after easter                             
+
+maandag    2020-06-01  NL       public holiday        2e pinksterdag               day after Pentecost                                         
+
+vrijdag    2020-06-19  US       public holiday        Juneteenth                   fixed June 19                                               
+
+zondag     2020-06-21  NL       national celebration  vaderdag                     third sunday jun                                            
+
+zondag     2020-06-21  NL       special day           midzomer                     midsummer festivals, flexible around 21-june                
+
+woensdag   2020-07-01  NL       special day           ketikoti                     freedom of the slaves, fixed 01-july                        
+
+vrijdag    2020-07-03  US       replacement holiday   Independence Day (observed)  if in weekend                                               
+
+zaterdag   2020-07-04  US       public holiday        Independence Day             fixed July 04                                               
+
+maandag    2020-09-07  US       public holiday        Labor Day                    first Monday of Sep                                         
+
+zaterdag   2020-09-19  DE       national celebration  start oktoberfest            ist das weltweit größte volksfest in München, Bayern. first 
+                                                                                   saturday after 15-sep                                       
+
+maandag    2020-10-12  US       public holiday        Columbus Day                 second Monday of Okt                                        
+
+zondag     2020-10-25  NL       special day           wintertijd EU                end DST, last sunday october                                
+
+zaterdag   2020-10-31  US       national celebration  Halloween                    fixed 31-okt                                                
+
+woensdag   2020-11-11  US       public holiday        Veterans Day                 fixed 11-nov                                                
+
+donderdag  2020-11-26  US       public holiday        Thanksgiving Day             fourth Thursday of Nov                                      
+
+vrijdag    2020-11-27  US       national celebration  black Friday                 day after Thanksgiving                                      
+
+zaterdag   2020-12-05  NL       special day           sinterklaasavond             dutch santa claus, flexible around 05-dec                   
+
+donderdag  2020-12-24  NL       national celebration  kerstavond                   X-mas eve                                                   
+
+donderdag  2020-12-24  US       national celebration  Christmas Eve                X-mas eve                                                   
+
+vrijdag    2020-12-25  NL       public holiday        kerst                        X-mas, fixed 25-dec                                         
+
+vrijdag    2020-12-25  US       public holiday        Christmas Day                X-mas, fixed 25-dec                                         
+
+zaterdag   2020-12-26  NL       public holiday        2e kerstdag                  day after X-mas                                             
+
+donderdag  2020-12-31  NL       national celebration  oudjaars avond               evening before new year                                     
+
+donderdag  2020-12-31  US       national celebration  New Year's Eve               evening before new year                                     
+
+vrijdag    2021-01-01  NL       public holiday        nieuwsjaarsdag               new year                                                    
+
+vrijdag    2021-01-01  US       public holiday        New Year's Day               new year                                                    
+
+maandag    2021-01-18  US       public holiday        Martin Luther King Day       third Monday of January                                     
+
+zondag     2021-02-14  NL       national celebration  carnaval                     7 weeks before easter                                       
+
+zondag     2021-02-14  NL       special day           valentijn                    valentine's day, fixed 14-feb                               
+
+maandag    2021-02-15  US       public holiday        President's Day              third Monday of February                                    
+
+dinsdag    2021-02-16  US       national celebration  Mardi Gras                   Shrove Tuesday, carnaval ends                               
+
+woensdag   2021-03-17  US       national celebration  Saint Patrick's Day          fixed 17-mar                                                
+
+zondag     2021-03-28  NL       special day           zomertijd EU                 start DST, last sunday march                                
+
+vrijdag    2021-04-02  NL       public holiday        goede vrijdag                2 days before easter                                        
+
+zondag     2021-04-04  NL       public holiday        pasen                        easter (gregorian)                                          
+
+maandag    2021-04-05  NL       public holiday        2e paasdag                   day after easter                                            
+
+dinsdag    2021-04-27  NL       public holiday        koningsdag                   kingsday, fixed but NOT on sunday                           
+
+dinsdag    2021-05-04  NL       special day           dodenherdenking              remembrance of the dead, fixed 04-may                       
+
+woensdag   2021-05-05  NL       public holiday        bevrijdingsdag               liberation day, fixed 05-may                                
+
+zondag     2021-05-09  NL       national celebration  moederdag                    second sunday may                                           
+
+donderdag  2021-05-13  NL       public holiday        hemelvaart                   ascension day, 39 days after easter                         
+
+zondag     2021-05-23  NL       public holiday        pinksteren                   Pentecost, 7 weeks after easter                             
+
+maandag    2021-05-24  NL       public holiday        2e pinksterdag               day after Pentecost                                         
+
+maandag    2021-05-31  US       public holiday        Memorial Day                 last Monday of May                                          
+
+vrijdag    2021-06-18  US       replacement holiday   Juneteenth (observed)        if in weekend                                               
+
+zaterdag   2021-06-19  US       public holiday        Juneteenth                   fixed June 19                                               
+
+zondag     2021-06-20  NL       national celebration  vaderdag                     third sunday jun                                            
+
+maandag    2021-06-21  NL       special day           midzomer                     midsummer festivals, flexible around 21-june                
+
+donderdag  2021-07-01  NL       special day           ketikoti                     freedom of the slaves, fixed 01-july                        
+
+zondag     2021-07-04  US       public holiday        Independence Day             fixed July 04                                               
+
+maandag    2021-07-05  US       replacement holiday   Independence Day (observed)  if in weekend                                               
+
+maandag    2021-09-06  US       public holiday        Labor Day                    first Monday of Sep                                         
+
+zaterdag   2021-09-18  DE       national celebration  start oktoberfest            ist das weltweit größte volksfest in München, Bayern. first 
+                                                                                   saturday after 15-sep                                       
+
+maandag    2021-10-11  US       public holiday        Columbus Day                 second Monday of Okt                                        
+
+zondag     2021-10-31  NL       special day           wintertijd EU                end DST, last sunday october                                
+
+zondag     2021-10-31  US       national celebration  Halloween                    fixed 31-okt                                                
+
+donderdag  2021-11-11  US       public holiday        Veterans Day                 fixed 11-nov                                                
+
+donderdag  2021-11-25  US       public holiday        Thanksgiving Day             fourth Thursday of Nov                                      
+
+vrijdag    2021-11-26  US       national celebration  black Friday                 day after Thanksgiving                                      
+
+zondag     2021-12-05  NL       special day           sinterklaasavond             dutch santa claus, flexible around 05-dec                   
+
+vrijdag    2021-12-24  NL       national celebration  kerstavond                   X-mas eve                                                   
+
+vrijdag    2021-12-24  US       national celebration  Christmas Eve                X-mas eve                                                   
+
+vrijdag    2021-12-24  US       replacement holiday   Christmas Day (observed)     if in weekend                                               
+
+zaterdag   2021-12-25  NL       public holiday        kerst                        X-mas, fixed 25-dec                                         
+
+zaterdag   2021-12-25  US       public holiday        Christmas Day                X-mas, fixed 25-dec                                         
+
+zondag     2021-12-26  NL       public holiday        2e kerstdag                  day after X-mas                                             
+
+vrijdag    2021-12-31  NL       national celebration  oudjaars avond               evening before new year                                     
+
+vrijdag    2021-12-31  US       national celebration  New Year's Eve               evening before new year                                     
+
+vrijdag    2021-12-31  US       replacement holiday   New Year's Day (observed)    if in weekend                                               
+
+zaterdag   2022-01-01  NL       public holiday        nieuwsjaarsdag               new year                                                    
+
+zaterdag   2022-01-01  US       public holiday        New Year's Day               new year                                                    
+
+maandag    2022-01-17  US       public holiday        Martin Luther King Day       third Monday of January                                     
+
+maandag    2022-02-14  NL       special day           valentijn                    valentine's day, fixed 14-feb                               
+
+maandag    2022-02-21  US       public holiday        President's Day              third Monday of February                                    
+
+zondag     2022-02-27  NL       national celebration  carnaval                     7 weeks before easter                                       
+
+dinsdag    2022-03-01  US       national celebration  Mardi Gras                   Shrove Tuesday, carnaval ends                               
+
+donderdag  2022-03-17  US       national celebration  Saint Patrick's Day          fixed 17-mar                                                
+
+zondag     2022-03-27  NL       special day           zomertijd EU                 start DST, last sunday march                                
+
+vrijdag    2022-04-15  NL       public holiday        goede vrijdag                2 days before easter                                        
+
+zondag     2022-04-17  NL       public holiday        pasen                        easter (gregorian)                                          
+
+maandag    2022-04-18  NL       public holiday        2e paasdag                   day after easter                                            
+
+woensdag   2022-04-27  NL       public holiday        koningsdag                   kingsday, fixed but NOT on sunday                           
+
+woensdag   2022-05-04  NL       special day           dodenherdenking              remembrance of the dead, fixed 04-may                       
+
+donderdag  2022-05-05  NL       public holiday        bevrijdingsdag               liberation day, fixed 05-may                                
+
+zondag     2022-05-08  NL       national celebration  moederdag                    second sunday may                                           
+
+donderdag  2022-05-26  NL       public holiday        hemelvaart                   ascension day, 39 days after easter                         
+
+maandag    2022-05-30  US       public holiday        Memorial Day                 last Monday of May                                          
+
+zondag     2022-06-05  NL       public holiday        pinksteren                   Pentecost, 7 weeks after easter                             
+
+maandag    2022-06-06  NL       public holiday        2e pinksterdag               day after Pentecost                                         
+
+zondag     2022-06-19  NL       national celebration  vaderdag                     third sunday jun                                            
+
+zondag     2022-06-19  US       public holiday        Juneteenth                   fixed June 19                                               
+
+maandag    2022-06-20  US       replacement holiday   Juneteenth (observed)        if in weekend                                               
+
+dinsdag    2022-06-21  NL       special day           midzomer                     midsummer festivals, flexible around 21-june                
+
+vrijdag    2022-07-01  NL       special day           ketikoti                     freedom of the slaves, fixed 01-july                        
+
+maandag    2022-07-04  US       public holiday        Independence Day             fixed July 04                                               
+
+maandag    2022-09-05  US       public holiday        Labor Day                    first Monday of Sep                                         
+
+zaterdag   2022-09-17  DE       national celebration  start oktoberfest            ist das weltweit größte volksfest in München, Bayern. first 
+                                                                                   saturday after 15-sep                                       
+
+maandag    2022-10-10  US       public holiday        Columbus Day                 second Monday of Okt                                        
+
+zondag     2022-10-30  NL       special day           wintertijd EU                end DST, last sunday october                                
+
+maandag    2022-10-31  US       national celebration  Halloween                    fixed 31-okt                                                
+
+vrijdag    2022-11-11  US       public holiday        Veterans Day                 fixed 11-nov                                                
+
+donderdag  2022-11-24  US       public holiday        Thanksgiving Day             fourth Thursday of Nov                                      
+
+vrijdag    2022-11-25  US       national celebration  black Friday                 day after Thanksgiving                                      
+
+maandag    2022-12-05  NL       special day           sinterklaasavond             dutch santa claus, flexible around 05-dec                   
+
+zaterdag   2022-12-24  NL       national celebration  kerstavond                   X-mas eve                                                   
+
+zaterdag   2022-12-24  US       national celebration  Christmas Eve                X-mas eve                                                   
+
+zondag     2022-12-25  NL       public holiday        kerst                        X-mas, fixed 25-dec                                         
+
+zondag     2022-12-25  US       public holiday        Christmas Day                X-mas, fixed 25-dec                                         
+
+maandag    2022-12-26  NL       public holiday        2e kerstdag                  day after X-mas                                             
+
+maandag    2022-12-26  US       replacement holiday   Christmas Day (observed)     if in weekend                                               
+
+zaterdag   2022-12-31  NL       national celebration  oudjaars avond               evening before new year                                     
+
+zaterdag   2022-12-31  US       national celebration  New Year's Eve               evening before new year                                     
+
+zondag     2023-01-01  NL       public holiday        nieuwsjaarsdag               new year                                                    
+
+zondag     2023-01-01  US       public holiday        New Year's Day               new year                                                    
+
+maandag    2023-01-02  US       replacement holiday   New Year's Day (observed)    if in weekend                                               
+
+maandag    2023-01-16  US       public holiday        Martin Luther King Day       third Monday of January                                     
+
+dinsdag    2023-02-14  NL       special day           valentijn                    valentine's day, fixed 14-feb                               
+
+zondag     2023-02-19  NL       national celebration  carnaval                     7 weeks before easter                                       
+
+maandag    2023-02-20  US       public holiday        President's Day              third Monday of February                                    
+
+dinsdag    2023-02-21  US       national celebration  Mardi Gras                   Shrove Tuesday, carnaval ends                               
+
+vrijdag    2023-03-17  US       national celebration  Saint Patrick's Day          fixed 17-mar                                                
+
+zondag     2023-03-26  NL       special day           zomertijd EU                 start DST, last sunday march                                
+
+vrijdag    2023-04-07  NL       public holiday        goede vrijdag                2 days before easter                                        
+
+zondag     2023-04-09  NL       public holiday        pasen                        easter (gregorian)                                          
+
+maandag    2023-04-10  NL       public holiday        2e paasdag                   day after easter                                            
+
+donderdag  2023-04-27  NL       public holiday        koningsdag                   kingsday, fixed but NOT on sunday                           
+
+donderdag  2023-05-04  NL       special day           dodenherdenking              remembrance of the dead, fixed 04-may                       
+
+vrijdag    2023-05-05  NL       public holiday        bevrijdingsdag               liberation day, fixed 05-may                                
+
+zondag     2023-05-14  NL       national celebration  moederdag                    second sunday may                                           
+
+donderdag  2023-05-18  NL       public holiday        hemelvaart                   ascension day, 39 days after easter                         
+
+zondag     2023-05-28  NL       public holiday        pinksteren                   Pentecost, 7 weeks after easter                             
+
+maandag    2023-05-29  NL       public holiday        2e pinksterdag               day after Pentecost                                         
+
+maandag    2023-05-29  US       public holiday        Memorial Day                 last Monday of May                                          
+
+zondag     2023-06-18  NL       national celebration  vaderdag                     third sunday jun                                            
+
+maandag    2023-06-19  US       public holiday        Juneteenth                   fixed June 19                                               
+
+woensdag   2023-06-21  NL       special day           midzomer                     midsummer festivals, flexible around 21-june                
+
+zaterdag   2023-07-01  NL       special day           ketikoti                     freedom of the slaves, fixed 01-july                        
+
+dinsdag    2023-07-04  US       public holiday        Independence Day             fixed July 04                                               
+
+maandag    2023-09-04  US       public holiday        Labor Day                    first Monday of Sep                                         
+
+zaterdag   2023-09-16  DE       national celebration  start oktoberfest            ist das weltweit größte volksfest in München, Bayern. first 
+                                                                                   saturday after 15-sep                                       
+
+maandag    2023-10-09  US       public holiday        Columbus Day                 second Monday of Okt                                        
+
+zondag     2023-10-29  NL       special day           wintertijd EU                end DST, last sunday october                                
+
+dinsdag    2023-10-31  US       national celebration  Halloween                    fixed 31-okt                                                
+
+vrijdag    2023-11-10  US       replacement holiday   Veterans Day (observed)      if in weekend                                               
+
+zaterdag   2023-11-11  US       public holiday        Veterans Day                 fixed 11-nov                                                
+
+donderdag  2023-11-23  US       public holiday        Thanksgiving Day             fourth Thursday of Nov                                      
+
+vrijdag    2023-11-24  US       national celebration  black Friday                 day after Thanksgiving                                      
+
+dinsdag    2023-12-05  NL       special day           sinterklaasavond             dutch santa claus, flexible around 05-dec                   
+
+zondag     2023-12-24  NL       national celebration  kerstavond                   X-mas eve                                                   
+
+zondag     2023-12-24  US       national celebration  Christmas Eve                X-mas eve                                                   
+
+maandag    2023-12-25  NL       public holiday        kerst                        X-mas, fixed 25-dec                                         
+
+maandag    2023-12-25  US       public holiday        Christmas Day                X-mas, fixed 25-dec                                         
+
+dinsdag    2023-12-26  NL       public holiday        2e kerstdag                  day after X-mas                                             
+
+zondag     2023-12-31  NL       national celebration  oudjaars avond               evening before new year                                     
+
+zondag     2023-12-31  US       national celebration  New Year's Eve               evening before new year                                     
+
+maandag    2024-01-01  NL       public holiday        nieuwsjaarsdag               new year                                                    
+
+maandag    2024-01-01  US       public holiday        New Year's Day               new year                                                    
+
+maandag    2024-01-15  US       public holiday        Martin Luther King Day       third Monday of January                                     
+
+zondag     2024-02-11  NL       national celebration  carnaval                     7 weeks before easter                                       
+
+dinsdag    2024-02-13  US       national celebration  Mardi Gras                   Shrove Tuesday, carnaval ends                               
+
+woensdag   2024-02-14  NL       special day           valentijn                    valentine's day, fixed 14-feb                               
+
+maandag    2024-02-19  US       public holiday        President's Day              third Monday of February                                    
+
+zondag     2024-03-17  US       national celebration  Saint Patrick's Day          fixed 17-mar                                                
+
+vrijdag    2024-03-29  NL       public holiday        goede vrijdag                2 days before easter                                        
+
+zondag     2024-03-31  NL       public holiday        pasen                        easter (gregorian)                                          
+
+zondag     2024-03-31  NL       special day           zomertijd EU                 start DST, last sunday march                                
+
+maandag    2024-04-01  NL       public holiday        2e paasdag                   day after easter                                            
+
+zaterdag   2024-04-27  NL       public holiday        koningsdag                   kingsday, fixed but NOT on sunday                           
+
+zaterdag   2024-05-04  NL       special day           dodenherdenking              remembrance of the dead, fixed 04-may                       
+
+zondag     2024-05-05  NL       public holiday        bevrijdingsdag               liberation day, fixed 05-may                                
+
+donderdag  2024-05-09  NL       public holiday        hemelvaart                   ascension day, 39 days after easter                         
+
+zondag     2024-05-12  NL       national celebration  moederdag                    second sunday may                                           
+
+zondag     2024-05-19  NL       public holiday        pinksteren                   Pentecost, 7 weeks after easter                             
+
+maandag    2024-05-20  NL       public holiday        2e pinksterdag               day after Pentecost                                         
+
+maandag    2024-05-27  US       public holiday        Memorial Day                 last Monday of May                                          
+
+zondag     2024-06-16  NL       national celebration  vaderdag                     third sunday jun                                            
+
+woensdag   2024-06-19  US       public holiday        Juneteenth                   fixed June 19                                               
+
+vrijdag    2024-06-21  NL       special day           midzomer                     midsummer festivals, flexible around 21-june                
+
+maandag    2024-07-01  NL       special day           ketikoti                     freedom of the slaves, fixed 01-july                        
+
+donderdag  2024-07-04  US       public holiday        Independence Day             fixed July 04                                               
+
+maandag    2024-09-02  US       public holiday        Labor Day                    first Monday of Sep                                         
+
+zaterdag   2024-09-21  DE       national celebration  start oktoberfest            ist das weltweit größte volksfest in München, Bayern. first 
+                                                                                   saturday after 15-sep                                       
+
+maandag    2024-10-14  US       public holiday        Columbus Day                 second Monday of Okt                                        
+
+zondag     2024-10-27  NL       special day           wintertijd EU                end DST, last sunday october                                
+
+donderdag  2024-10-31  US       national celebration  Halloween                    fixed 31-okt                                                
+
+maandag    2024-11-11  US       public holiday        Veterans Day                 fixed 11-nov                                                
+
+donderdag  2024-11-28  US       public holiday        Thanksgiving Day             fourth Thursday of Nov                                      
+
+vrijdag    2024-11-29  US       national celebration  black Friday                 day after Thanksgiving                                      
+
+donderdag  2024-12-05  NL       special day           sinterklaasavond             dutch santa claus, flexible around 05-dec                   
+
+dinsdag    2024-12-24  NL       national celebration  kerstavond                   X-mas eve                                                   
+
+dinsdag    2024-12-24  US       national celebration  Christmas Eve                X-mas eve                                                   
+
+woensdag   2024-12-25  NL       public holiday        kerst                        X-mas, fixed 25-dec                                         
+
+woensdag   2024-12-25  US       public holiday        Christmas Day                X-mas, fixed 25-dec                                         
+
+donderdag  2024-12-26  NL       public holiday        2e kerstdag                  day after X-mas                                             
+
+dinsdag    2024-12-31  NL       national celebration  oudjaars avond               evening before new year                                     
+
+dinsdag    2024-12-31  US       national celebration  New Year's Eve               evening before new year                                     
+
+woensdag   2025-01-01  NL       public holiday        nieuwsjaarsdag               new year                                                    
+
+woensdag   2025-01-01  US       public holiday        New Year's Day               new year                                                    
+
+maandag    2025-01-20  US       public holiday        Martin Luther King Day       third Monday of January                                     
+
+vrijdag    2025-02-14  NL       special day           valentijn                    valentine's day, fixed 14-feb                               
+
+maandag    2025-02-17  US       public holiday        President's Day              third Monday of February                                    
+
+zondag     2025-03-02  NL       national celebration  carnaval                     7 weeks before easter                                       
+
+dinsdag    2025-03-04  US       national celebration  Mardi Gras                   Shrove Tuesday, carnaval ends                               
+
+maandag    2025-03-17  US       national celebration  Saint Patrick's Day          fixed 17-mar                                                
+
+zondag     2025-03-30  NL       special day           zomertijd EU                 start DST, last sunday march                                
+
+vrijdag    2025-04-18  NL       public holiday        goede vrijdag                2 days before easter                                        
+
+zondag     2025-04-20  NL       public holiday        pasen                        easter (gregorian)                                          
+
+maandag    2025-04-21  NL       public holiday        2e paasdag                   day after easter                                            
+
+zaterdag   2025-04-26  NL       public holiday        koningsdag                   kingsday, fixed but NOT on sunday                           
+
+zondag     2025-05-04  NL       special day           dodenherdenking              remembrance of the dead, fixed 04-may                       
+
+maandag    2025-05-05  NL       public holiday        bevrijdingsdag (lustrum)     liberation day, fixed 05-may                                
+
+zondag     2025-05-11  NL       national celebration  moederdag                    second sunday may                                           
+
+maandag    2025-05-26  US       public holiday        Memorial Day                 last Monday of May                                          
+
+donderdag  2025-05-29  NL       public holiday        hemelvaart                   ascension day, 39 days after easter                         
+
+zondag     2025-06-08  NL       public holiday        pinksteren                   Pentecost, 7 weeks after easter                             
+
+maandag    2025-06-09  NL       public holiday        2e pinksterdag               day after Pentecost                                         
+
+zondag     2025-06-15  NL       national celebration  vaderdag                     third sunday jun                                            
+
+donderdag  2025-06-19  US       public holiday        Juneteenth                   fixed June 19                                               
+
+zaterdag   2025-06-21  NL       special day           midzomer                     midsummer festivals, flexible around 21-june                
+
+dinsdag    2025-07-01  NL       special day           ketikoti                     freedom of the slaves, fixed 01-july                        
+
+vrijdag    2025-07-04  US       public holiday        Independence Day             fixed July 04                                               
+
+maandag    2025-09-01  US       public holiday        Labor Day                    first Monday of Sep                                         
+
+zaterdag   2025-09-20  DE       national celebration  start oktoberfest            ist das weltweit größte volksfest in München, Bayern. first 
+                                                                                   saturday after 15-sep                                       
+
+maandag    2025-10-13  US       public holiday        Columbus Day                 second Monday of Okt                                        
+
+zondag     2025-10-26  NL       special day           wintertijd EU                end DST, last sunday october                                
+
+vrijdag    2025-10-31  US       national celebration  Halloween                    fixed 31-okt                                                
+
+dinsdag    2025-11-11  US       public holiday        Veterans Day                 fixed 11-nov                                                
+
+donderdag  2025-11-27  US       public holiday        Thanksgiving Day             fourth Thursday of Nov                                      
+
+vrijdag    2025-11-28  US       national celebration  black Friday                 day after Thanksgiving                                      
+
+vrijdag    2025-12-05  NL       special day           sinterklaasavond             dutch santa claus, flexible around 05-dec                   
+
+woensdag   2025-12-24  NL       national celebration  kerstavond                   X-mas eve                                                   
+
+woensdag   2025-12-24  US       national celebration  Christmas Eve                X-mas eve                                                   
+
+donderdag  2025-12-25  NL       public holiday        kerst                        X-mas, fixed 25-dec                                         
+
+donderdag  2025-12-25  US       public holiday        Christmas Day                X-mas, fixed 25-dec                                         
+
+vrijdag    2025-12-26  NL       public holiday        2e kerstdag                  day after X-mas                                             
+
+woensdag   2025-12-31  NL       national celebration  oudjaars avond               evening before new year                                     
+
+woensdag   2025-12-31  US       national celebration  New Year's Eve               evening before new year                                     
+
+donderdag  2026-01-01  NL       public holiday        nieuwsjaarsdag               new year                                                    
+
+donderdag  2026-01-01  US       public holiday        New Year's Day               new year                                                    
+
+maandag    2026-01-19  US       public holiday        Martin Luther King Day       third Monday of January                                     
+
+zaterdag   2026-02-14  NL       special day           valentijn                    valentine's day, fixed 14-feb                               
+
+zondag     2026-02-15  NL       national celebration  carnaval                     7 weeks before easter                                       
+
+maandag    2026-02-16  US       public holiday        President's Day              third Monday of February                                    
+
+dinsdag    2026-02-17  US       national celebration  Mardi Gras                   Shrove Tuesday, carnaval ends                               
+
+dinsdag    2026-03-17  US       national celebration  Saint Patrick's Day          fixed 17-mar                                                
+
+zondag     2026-03-29  NL       special day           zomertijd EU                 start DST, last sunday march                                
+
+vrijdag    2026-04-03  NL       public holiday        goede vrijdag                2 days before easter                                        
+
+zondag     2026-04-05  NL       public holiday        pasen                        easter (gregorian)                                          
+
+maandag    2026-04-06  NL       public holiday        2e paasdag                   day after easter                                            
+
+maandag    2026-04-27  NL       public holiday        koningsdag                   kingsday, fixed but NOT on sunday                           
+
+maandag    2026-05-04  NL       special day           dodenherdenking              remembrance of the dead, fixed 04-may                       
+
+dinsdag    2026-05-05  NL       public holiday        bevrijdingsdag               liberation day, fixed 05-may                                
+
+zondag     2026-05-10  NL       national celebration  moederdag                    second sunday may                                           
+
+donderdag  2026-05-14  NL       public holiday        hemelvaart                   ascension day, 39 days after easter                         
+
+zondag     2026-05-24  NL       public holiday        pinksteren                   Pentecost, 7 weeks after easter                             
+
+maandag    2026-05-25  NL       public holiday        2e pinksterdag               day after Pentecost                                         
+
+maandag    2026-05-25  US       public holiday        Memorial Day                 last Monday of May                                          
+
+vrijdag    2026-06-19  US       public holiday        Juneteenth                   fixed June 19                                               
+
+zondag     2026-06-21  NL       national celebration  vaderdag                     third sunday jun                                            
+
+zondag     2026-06-21  NL       special day           midzomer                     midsummer festivals, flexible around 21-june                
+
+woensdag   2026-07-01  NL       special day           ketikoti                     freedom of the slaves, fixed 01-july                        
+
+vrijdag    2026-07-03  US       replacement holiday   Independence Day (observed)  if in weekend                                               
+
+zaterdag   2026-07-04  US       public holiday        Independence Day             fixed July 04                                               
+
+maandag    2026-09-07  US       public holiday        Labor Day                    first Monday of Sep                                         
+
+zaterdag   2026-09-19  DE       national celebration  start oktoberfest            ist das weltweit größte volksfest in München, Bayern. first 
+                                                                                   saturday after 15-sep                                       
+
+maandag    2026-10-12  US       public holiday        Columbus Day                 second Monday of Okt                                        
+
+zondag     2026-10-25  NL       special day           wintertijd EU                end DST, last sunday october                                
+
+zaterdag   2026-10-31  US       national celebration  Halloween                    fixed 31-okt                                                
+
+woensdag   2026-11-11  US       public holiday        Veterans Day                 fixed 11-nov                                                
+
+donderdag  2026-11-26  US       public holiday        Thanksgiving Day             fourth Thursday of Nov                                      
+
+vrijdag    2026-11-27  US       national celebration  black Friday                 day after Thanksgiving                                      
+
+zaterdag   2026-12-05  NL       special day           sinterklaasavond             dutch santa claus, flexible around 05-dec                   
+
+donderdag  2026-12-24  NL       national celebration  kerstavond                   X-mas eve                                                   
+
+donderdag  2026-12-24  US       national celebration  Christmas Eve                X-mas eve                                                   
+
+vrijdag    2026-12-25  NL       public holiday        kerst                        X-mas, fixed 25-dec                                         
+
+vrijdag    2026-12-25  US       public holiday        Christmas Day                X-mas, fixed 25-dec                                         
+
+zaterdag   2026-12-26  NL       public holiday        2e kerstdag                  day after X-mas                                             
+
+donderdag  2026-12-31  NL       national celebration  oudjaars avond               evening before new year                                     
+
+donderdag  2026-12-31  US       national celebration  New Year's Eve               evening before new year                                     
+
+vrijdag    2027-01-01  NL       public holiday        nieuwsjaarsdag               new year                                                    
+
+vrijdag    2027-01-01  US       public holiday        New Year's Day               new year                                                    
+
+maandag    2027-01-18  US       public holiday        Martin Luther King Day       third Monday of January                                     
+
+zondag     2027-02-07  NL       national celebration  carnaval                     7 weeks before easter                                       
+
+dinsdag    2027-02-09  US       national celebration  Mardi Gras                   Shrove Tuesday, carnaval ends                               
+
+zondag     2027-02-14  NL       special day           valentijn                    valentine's day, fixed 14-feb                               
+
+maandag    2027-02-15  US       public holiday        President's Day              third Monday of February                                    
+
+woensdag   2027-03-17  US       national celebration  Saint Patrick's Day          fixed 17-mar                                                
+
+vrijdag    2027-03-26  NL       public holiday        goede vrijdag                2 days before easter                                        
+
+zondag     2027-03-28  NL       public holiday        pasen                        easter (gregorian)                                          
+
+zondag     2027-03-28  NL       special day           zomertijd EU                 start DST, last sunday march                                
+
+maandag    2027-03-29  NL       public holiday        2e paasdag                   day after easter                                            
+
+dinsdag    2027-04-27  NL       public holiday        koningsdag                   kingsday, fixed but NOT on sunday                           
+
+dinsdag    2027-05-04  NL       special day           dodenherdenking              remembrance of the dead, fixed 04-may                       
+
+woensdag   2027-05-05  NL       public holiday        bevrijdingsdag               liberation day, fixed 05-may                                
+
+donderdag  2027-05-06  NL       public holiday        hemelvaart                   ascension day, 39 days after easter                         
+
+zondag     2027-05-09  NL       national celebration  moederdag                    second sunday may                                           
+
+zondag     2027-05-16  NL       public holiday        pinksteren                   Pentecost, 7 weeks after easter                             
+
+maandag    2027-05-17  NL       public holiday        2e pinksterdag               day after Pentecost                                         
+
+maandag    2027-05-31  US       public holiday        Memorial Day                 last Monday of May                                          
+
+vrijdag    2027-06-18  US       replacement holiday   Juneteenth (observed)        if in weekend                                               
+
+zaterdag   2027-06-19  US       public holiday        Juneteenth                   fixed June 19                                               
+
+zondag     2027-06-20  NL       national celebration  vaderdag                     third sunday jun                                            
+
+maandag    2027-06-21  NL       special day           midzomer                     midsummer festivals, flexible around 21-june                
+
+donderdag  2027-07-01  NL       special day           ketikoti                     freedom of the slaves, fixed 01-july                        
+
+zondag     2027-07-04  US       public holiday        Independence Day             fixed July 04                                               
+
+maandag    2027-07-05  US       replacement holiday   Independence Day (observed)  if in weekend                                               
+
+maandag    2027-09-06  US       public holiday        Labor Day                    first Monday of Sep                                         
+
+zaterdag   2027-09-18  DE       national celebration  start oktoberfest            ist das weltweit größte volksfest in München, Bayern. first 
+                                                                                   saturday after 15-sep                                       
+
+maandag    2027-10-11  US       public holiday        Columbus Day                 second Monday of Okt                                        
+
+zondag     2027-10-31  NL       special day           wintertijd EU                end DST, last sunday october                                
+
+zondag     2027-10-31  US       national celebration  Halloween                    fixed 31-okt                                                
+
+donderdag  2027-11-11  US       public holiday        Veterans Day                 fixed 11-nov                                                
+
+donderdag  2027-11-25  US       public holiday        Thanksgiving Day             fourth Thursday of Nov                                      
+
+vrijdag    2027-11-26  US       national celebration  black Friday                 day after Thanksgiving                                      
+
+zondag     2027-12-05  NL       special day           sinterklaasavond             dutch santa claus, flexible around 05-dec                   
+
+vrijdag    2027-12-24  NL       national celebration  kerstavond                   X-mas eve                                                   
+
+vrijdag    2027-12-24  US       national celebration  Christmas Eve                X-mas eve                                                   
+
+vrijdag    2027-12-24  US       replacement holiday   Christmas Day (observed)     if in weekend                                               
+
+zaterdag   2027-12-25  NL       public holiday        kerst                        X-mas, fixed 25-dec                                         
+
+zaterdag   2027-12-25  US       public holiday        Christmas Day                X-mas, fixed 25-dec                                         
+
+zondag     2027-12-26  NL       public holiday        2e kerstdag                  day after X-mas                                             
+
+vrijdag    2027-12-31  NL       national celebration  oudjaars avond               evening before new year                                     
+
+vrijdag    2027-12-31  US       national celebration  New Year's Eve               evening before new year                                     
+
+vrijdag    2027-12-31  US       replacement holiday   New Year's Day (observed)    if in weekend                                               
+
+zaterdag   2028-01-01  NL       public holiday        nieuwsjaarsdag               new year                                                    
+
+zaterdag   2028-01-01  US       public holiday        New Year's Day               new year                                                    
+
+maandag    2028-01-17  US       public holiday        Martin Luther King Day       third Monday of January                                     
+
+maandag    2028-02-14  NL       special day           valentijn                    valentine's day, fixed 14-feb                               
+
+maandag    2028-02-21  US       public holiday        President's Day              third Monday of February                                    
+
+zondag     2028-02-27  NL       national celebration  carnaval                     7 weeks before easter                                       
+
+dinsdag    2028-02-29  US       national celebration  Mardi Gras                   Shrove Tuesday, carnaval ends                               
+
+vrijdag    2028-03-17  US       national celebration  Saint Patrick's Day          fixed 17-mar                                                
+
+zondag     2028-03-26  NL       special day           zomertijd EU                 start DST, last sunday march                                
+
+vrijdag    2028-04-14  NL       public holiday        goede vrijdag                2 days before easter                                        
+
+zondag     2028-04-16  NL       public holiday        pasen                        easter (gregorian)                                          
+
+maandag    2028-04-17  NL       public holiday        2e paasdag                   day after easter                                            
+
+donderdag  2028-04-27  NL       public holiday        koningsdag                   kingsday, fixed but NOT on sunday                           
+
+donderdag  2028-05-04  NL       special day           dodenherdenking              remembrance of the dead, fixed 04-may                       
+
+vrijdag    2028-05-05  NL       public holiday        bevrijdingsdag               liberation day, fixed 05-may                                
+
+zondag     2028-05-14  NL       national celebration  moederdag                    second sunday may                                           
+
+donderdag  2028-05-25  NL       public holiday        hemelvaart                   ascension day, 39 days after easter                         
+
+maandag    2028-05-29  US       public holiday        Memorial Day                 last Monday of May                                          
+
+zondag     2028-06-04  NL       public holiday        pinksteren                   Pentecost, 7 weeks after easter                             
+
+maandag    2028-06-05  NL       public holiday        2e pinksterdag               day after Pentecost                                         
+
+zondag     2028-06-18  NL       national celebration  vaderdag                     third sunday jun                                            
+
+maandag    2028-06-19  US       public holiday        Juneteenth                   fixed June 19                                               
+
+woensdag   2028-06-21  NL       special day           midzomer                     midsummer festivals, flexible around 21-june                
+
+zaterdag   2028-07-01  NL       special day           ketikoti                     freedom of the slaves, fixed 01-july                        
+
+dinsdag    2028-07-04  US       public holiday        Independence Day             fixed July 04                                               
+
+maandag    2028-09-04  US       public holiday        Labor Day                    first Monday of Sep                                         
+
+zaterdag   2028-09-16  DE       national celebration  start oktoberfest            ist das weltweit größte volksfest in München, Bayern. first 
+                                                                                   saturday after 15-sep                                       
+
+maandag    2028-10-09  US       public holiday        Columbus Day                 second Monday of Okt                                        
+
+zondag     2028-10-29  NL       special day           wintertijd EU                end DST, last sunday october                                
+
+dinsdag    2028-10-31  US       national celebration  Halloween                    fixed 31-okt                                                
+
+vrijdag    2028-11-10  US       replacement holiday   Veterans Day (observed)      if in weekend                                               
+
+zaterdag   2028-11-11  US       public holiday        Veterans Day                 fixed 11-nov                                                
+
+donderdag  2028-11-23  US       public holiday        Thanksgiving Day             fourth Thursday of Nov                                      
+
+vrijdag    2028-11-24  US       national celebration  black Friday                 day after Thanksgiving                                      
+
+dinsdag    2028-12-05  NL       special day           sinterklaasavond             dutch santa claus, flexible around 05-dec                   
+
+zondag     2028-12-24  NL       national celebration  kerstavond                   X-mas eve                                                   
+
+zondag     2028-12-24  US       national celebration  Christmas Eve                X-mas eve                                                   
+
+maandag    2028-12-25  NL       public holiday        kerst                        X-mas, fixed 25-dec                                         
+
+maandag    2028-12-25  US       public holiday        Christmas Day                X-mas, fixed 25-dec                                         
+
+dinsdag    2028-12-26  NL       public holiday        2e kerstdag                  day after X-mas                                             
+
+zondag     2028-12-31  NL       national celebration  oudjaars avond               evening before new year                                     
+
+zondag     2028-12-31  US       national celebration  New Year's Eve               evening before new year                                     
+
+maandag    2029-01-01  NL       public holiday        nieuwsjaarsdag               new year                                                    
+
+maandag    2029-01-01  US       public holiday        New Year's Day               new year                                                    
+
+maandag    2029-01-15  US       public holiday        Martin Luther King Day       third Monday of January                                     
+
+zondag     2029-02-11  NL       national celebration  carnaval                     7 weeks before easter                                       
+
+dinsdag    2029-02-13  US       national celebration  Mardi Gras                   Shrove Tuesday, carnaval ends                               
+
+woensdag   2029-02-14  NL       special day           valentijn                    valentine's day, fixed 14-feb                               
+
+maandag    2029-02-19  US       public holiday        President's Day              third Monday of February                                    
+
+zaterdag   2029-03-17  US       national celebration  Saint Patrick's Day          fixed 17-mar                                                
+
+zondag     2029-03-25  NL       special day           zomertijd EU                 start DST, last sunday march                                
+
+vrijdag    2029-03-30  NL       public holiday        goede vrijdag                2 days before easter                                        
+
+zondag     2029-04-01  NL       public holiday        pasen                        easter (gregorian)                                          
+
+maandag    2029-04-02  NL       public holiday        2e paasdag                   day after easter                                            
+
+vrijdag    2029-04-27  NL       public holiday        koningsdag                   kingsday, fixed but NOT on sunday                           
+
+vrijdag    2029-05-04  NL       special day           dodenherdenking              remembrance of the dead, fixed 04-may                       
+
+zaterdag   2029-05-05  NL       public holiday        bevrijdingsdag               liberation day, fixed 05-may                                
+
+donderdag  2029-05-10  NL       public holiday        hemelvaart                   ascension day, 39 days after easter                         
+
+zondag     2029-05-13  NL       national celebration  moederdag                    second sunday may                                           
+
+zondag     2029-05-20  NL       public holiday        pinksteren                   Pentecost, 7 weeks after easter                             
+
+maandag    2029-05-21  NL       public holiday        2e pinksterdag               day after Pentecost                                         
+
+maandag    2029-05-28  US       public holiday        Memorial Day                 last Monday of May                                          
+
+zondag     2029-06-17  NL       national celebration  vaderdag                     third sunday jun                                            
+
+dinsdag    2029-06-19  US       public holiday        Juneteenth                   fixed June 19                                               
+
+donderdag  2029-06-21  NL       special day           midzomer                     midsummer festivals, flexible around 21-june                
+
+zondag     2029-07-01  NL       special day           ketikoti                     freedom of the slaves, fixed 01-july                        
+
+woensdag   2029-07-04  US       public holiday        Independence Day             fixed July 04                                               
+
+maandag    2029-09-03  US       public holiday        Labor Day                    first Monday of Sep                                         
+
+zaterdag   2029-09-22  DE       national celebration  start oktoberfest            ist das weltweit größte volksfest in München, Bayern. first 
+                                                                                   saturday after 15-sep                                       
+
+maandag    2029-10-08  US       public holiday        Columbus Day                 second Monday of Okt                                        
+
+zondag     2029-10-28  NL       special day           wintertijd EU                end DST, last sunday october                                
+
+woensdag   2029-10-31  US       national celebration  Halloween                    fixed 31-okt                                                
+
+zondag     2029-11-11  US       public holiday        Veterans Day                 fixed 11-nov                                                
+
+maandag    2029-11-12  US       replacement holiday   Veterans Day (observed)      if in weekend                                               
+
+donderdag  2029-11-22  US       public holiday        Thanksgiving Day             fourth Thursday of Nov                                      
+
+vrijdag    2029-11-23  US       national celebration  black Friday                 day after Thanksgiving                                      
+
+woensdag   2029-12-05  NL       special day           sinterklaasavond             dutch santa claus, flexible around 05-dec                   
+
+maandag    2029-12-24  NL       national celebration  kerstavond                   X-mas eve                                                   
+
+maandag    2029-12-24  US       national celebration  Christmas Eve                X-mas eve                                                   
+
+dinsdag    2029-12-25  NL       public holiday        kerst                        X-mas, fixed 25-dec                                         
+
+dinsdag    2029-12-25  US       public holiday        Christmas Day                X-mas, fixed 25-dec                                         
+
+woensdag   2029-12-26  NL       public holiday        2e kerstdag                  day after X-mas                                             
+
+maandag    2029-12-31  NL       national celebration  oudjaars avond               evening before new year                                     
+
+maandag    2029-12-31  US       national celebration  New Year's Eve               evening before new year                                     
+
+dinsdag    2030-01-01  NL       public holiday        nieuwsjaarsdag               new year                                                    
+
+dinsdag    2030-01-01  US       public holiday        New Year's Day               new year                                                    
+
+maandag    2030-01-21  US       public holiday        Martin Luther King Day       third Monday of January                                     
+
+donderdag  2030-02-14  NL       special day           valentijn                    valentine's day, fixed 14-feb                               
+
+maandag    2030-02-18  US       public holiday        President's Day              third Monday of February                                    
+
+zondag     2030-03-03  NL       national celebration  carnaval                     7 weeks before easter                                       
+
+dinsdag    2030-03-05  US       national celebration  Mardi Gras                   Shrove Tuesday, carnaval ends                               
+
+zondag     2030-03-17  US       national celebration  Saint Patrick's Day          fixed 17-mar                                                
+
+zondag     2030-03-31  NL       special day           zomertijd EU                 start DST, last sunday march                                
+
+vrijdag    2030-04-19  NL       public holiday        goede vrijdag                2 days before easter                                        
+
+zondag     2030-04-21  NL       public holiday        pasen                        easter (gregorian)                                          
+
+maandag    2030-04-22  NL       public holiday        2e paasdag                   day after easter                                            
+
+zaterdag   2030-04-27  NL       public holiday        koningsdag                   kingsday, fixed but NOT on sunday                           
+
+zaterdag   2030-05-04  NL       special day           dodenherdenking              remembrance of the dead, fixed 04-may                       
+
+zondag     2030-05-05  NL       public holiday        bevrijdingsdag (lustrum)     liberation day, fixed 05-may                                
+
+zondag     2030-05-12  NL       national celebration  moederdag                    second sunday may                                           
+
+maandag    2030-05-27  US       public holiday        Memorial Day                 last Monday of May                                          
+
+donderdag  2030-05-30  NL       public holiday        hemelvaart                   ascension day, 39 days after easter                         
+
+zondag     2030-06-09  NL       public holiday        pinksteren                   Pentecost, 7 weeks after easter                             
+
+maandag    2030-06-10  NL       public holiday        2e pinksterdag               day after Pentecost                                         
+
+zondag     2030-06-16  NL       national celebration  vaderdag                     third sunday jun                                            
+
+woensdag   2030-06-19  US       public holiday        Juneteenth                   fixed June 19                                               
+
+vrijdag    2030-06-21  NL       special day           midzomer                     midsummer festivals, flexible around 21-june                
+
+maandag    2030-07-01  NL       special day           ketikoti                     freedom of the slaves, fixed 01-july                        
+
+donderdag  2030-07-04  US       public holiday        Independence Day             fixed July 04                                               
+
+maandag    2030-09-02  US       public holiday        Labor Day                    first Monday of Sep                                         
+
+zaterdag   2030-09-21  DE       national celebration  start oktoberfest            ist das weltweit größte volksfest in München, Bayern. first 
+                                                                                   saturday after 15-sep                                       
+
+maandag    2030-10-14  US       public holiday        Columbus Day                 second Monday of Okt                                        
+
+zondag     2030-10-27  NL       special day           wintertijd EU                end DST, last sunday october                                
+
+donderdag  2030-10-31  US       national celebration  Halloween                    fixed 31-okt                                                
+
+maandag    2030-11-11  US       public holiday        Veterans Day                 fixed 11-nov                                                
+
+donderdag  2030-11-28  US       public holiday        Thanksgiving Day             fourth Thursday of Nov                                      
+
+vrijdag    2030-11-29  US       national celebration  black Friday                 day after Thanksgiving                                      
+
+donderdag  2030-12-05  NL       special day           sinterklaasavond             dutch santa claus, flexible around 05-dec                   
+
+dinsdag    2030-12-24  NL       national celebration  kerstavond                   X-mas eve                                                   
+
+dinsdag    2030-12-24  US       national celebration  Christmas Eve                X-mas eve                                                   
+
+woensdag   2030-12-25  NL       public holiday        kerst                        X-mas, fixed 25-dec                                         
+
+woensdag   2030-12-25  US       public holiday        Christmas Day                X-mas, fixed 25-dec                                         
+
+donderdag  2030-12-26  NL       public holiday        2e kerstdag                  day after X-mas                                             
+
+dinsdag    2030-12-31  NL       national celebration  oudjaars avond               evening before new year                                     
+
+dinsdag    2030-12-31  US       national celebration  New Year's Eve               evening before new year                                     
